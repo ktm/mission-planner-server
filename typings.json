@@ -1,0 +1,9 @@
+{
+  "globalDependencies": {
+    "assert": "github:DefinitelyTyped/DefinitelyTyped/assert/assert.d.ts",
+    "mocha": "github:DefinitelyTyped/DefinitelyTyped/mocha/mocha.d.ts",
+    "nodeunit": "github:DefinitelyTyped/DefinitelyTyped/nodeunit/nodeunit.d.ts",
+    "should": "github:DefinitelyTyped/DefinitelyTyped/should/should.d.ts",
+    "es6-promise": "./typings/es6-promise/es6-promise.d.ts"
+  }
+}
